@@ -45,6 +45,9 @@
             "label": "Select a Store",
             "defaultOption": "All Stores",
             "loading": "Loading.."
+        },
+        "TENANTSETTINGS": {
+            "isDisplayRefundbyNewGiftCard": 1
         }
     },
     "MESSAGES": {
@@ -62,18 +65,18 @@
             "Error": {
                 "Fatal": "Error occurred while processing your request. Please try again later or contact customer support team.",
                 "UserSessionExpired": "Your Session has expired, please try to login again",
-                "ReturnsListGetFailed" : "An error occured while fetching returns",
-                "OrdersListGetFailed" : "An error occured while fetching orders",
-                "GetShipmentFailed" : "An error occured while fetching shipment items",
-                "GetReaonsFailed": "An error occured while fetching reasons",
-                "CreateReturnsFailed": "An error occured while creating returns",
-                "ProcessReturnsFailed": "An error occured while processing returns",
-                "ExistingPaymentToRefundFailed": "An error occured while fetching the payment details of return",
-                "PaymentRefundFailed": "An error occured while processing the refund",
-                "CloseReturnsFailed": "An error occured while closing returns"               
+                "ReturnsListGetFailed" : "An error occurred while fetching returns",
+                "OrdersListGetFailed" : "An error occurred while fetching orders",
+                "GetShipmentFailed" : "An error occurred while fetching shipment items",
+                "GetReaonsFailed": "An error occurred while fetching reasons",
+                "CreateReturnsFailed": "An error occurred while creating returns",
+                "ProcessReturnsFailed": "An error occurred while processing returns",
+                "ExistingPaymentToRefundFailed": "An error occurred while fetching the payment details of return",
+                "PaymentRefundFailed": "An error occurred while processing the refund",
+                "CloseReturnsFailed": "An error occurred while closing/rejecting returns"               
             },
             "Warning": {
-                "DashboardTilesGetFailed": "Error occured while fetching dasbhoard tiles",
+                "DashboardTilesGetFailed": "Error occurred while fetching dasbhoard tiles",
                 "CreateReturnEmptyData": "Quantity and Reason should be selected",
                 "ProcessReturnEmptyData": "Quantity and Return Location should be selected",
                 "PaymentRefundWarning": "Unable to trigger refund"
@@ -186,7 +189,8 @@
                 },
                 "Buttons": {
                     "cancel": "Cancel",
-                    "processReturn": "Process These Items"
+                    "processReturn": "Process These Items",
+                    "processNewGiftCard": "Process to New Gift Card"
                 }
             }
         }
