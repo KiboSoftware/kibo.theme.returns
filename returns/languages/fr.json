@@ -1,4 +1,4 @@
-{
+﻿{
     "SHARED": {
         "appName": "Kibo eCommerce",
         "currencyCode": "USD",
@@ -43,7 +43,8 @@
         },
         "STORESELECTION": {
             "label": "Sélectionnez un magasin",
-            "defaultOption": "Tous les magasins"
+            "defaultOption": "Tous les magasins",
+            "loading": "Chargement.."
         }
     },
     "MESSAGES": {
