@@ -45,6 +45,9 @@
             "label": "Sélectionnez un magasin",
             "defaultOption": "Tous les magasins",
             "loading": "Chargement.."
+        },
+        "TENANTSETTINGS": {
+            "isDisplayRefundbyNewGiftCard": 1
         }
     },
     "MESSAGES": {
@@ -70,7 +73,7 @@
                 "ProcessReturnsFailed": "Une erreur s'est produite lors du traitement du retour",
                 "ExistingPaymentToRefundFailed": "Une erreur s'est produite lors de la récupération des détails de paiement du retour",
                 "PaymentRefundFailed": "Une erreur s'est produite lors du traitement du remboursement",
-                "CloseReturnsFailed": "Une erreur s'est produite lors de la fermeture des retours"                
+                "CloseReturnsFailed": "Une erreur s'est produite lors de la fermeture/rejet des retours"                
             },
             "Warning": {
                 "DashboardTilesGetFailed": "Une erreur s'est produite lors de la récupération des tuiles dasbhoard",
@@ -186,7 +189,8 @@
                 },
                 "Buttons": {
                     "cancel": "Annuler",
-                    "processReturn": "Traiter ces éléments"
+                    "processReturn": "Traiter ces éléments",
+                    "processNewGiftCard": "Processus vers une nouvelle carte-cadeau"
                 }
             }
         }
