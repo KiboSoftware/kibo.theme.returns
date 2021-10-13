@@ -47,6 +47,7 @@
             "loading": "Loading.."
         },
         "TENANTSETTINGS": {
+            "isIncludeShippingAndHandlingCharges": 1
         }
     },
     "MESSAGES": {
@@ -180,7 +181,8 @@
                     "part": "Part #:",
                     "shippedBy": "Shipped By",
                     "quantity": "Quantity",
-                    "reason": "Reason"
+                    "reason": "Reason",
+                    "refundShippingAndHandling": "Refund S&H"
                 },
                 "GridEmptyMessages": {
                     "noRecordFound": "No return items found",

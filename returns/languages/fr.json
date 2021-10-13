@@ -47,6 +47,7 @@
             "loading": "Chargement.."
         },
         "TENANTSETTINGS": {
+            "isIncludeShippingAndHandlingCharges": 1
         }
     },
     "MESSAGES": {
@@ -180,7 +181,8 @@
                     "part": "Partie #:",
                     "shippedBy": "Expédié par",
                     "quantity": "Quantité",
-                    "reason": "Raison"
+                    "reason": "Raison",
+                    "refundShippingAndHandling": "Remboursement S&H"
                 },
                 "GridEmptyMessages": {
                     "noRecordFound": "Aucun élément de retour trouvé",
