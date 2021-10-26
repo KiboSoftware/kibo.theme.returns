@@ -47,7 +47,8 @@
             "loading": "Chargement.."
         },
         "TENANTSETTINGS": {
-            "isIncludeShippingAndHandlingCharges": 1
+            "isIncludeShippingAndHandlingCharges": 1,
+            "returnReason": ""
         }
     },
     "MESSAGES": {
@@ -156,7 +157,8 @@
                     "UPC": "UPC:",
                     "part": "Partie #:",
                     "shippedBy": "Expédié par",
-                    "quantity": "Quantité",
+                    "quantityShipped": "Quantité expédiée",
+                    "quantityToReturn": "Quantité à retourner",
                     "reason": "Raison"
                 },
                 "GridEmptyMessages": {
