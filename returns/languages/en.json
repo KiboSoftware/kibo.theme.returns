@@ -47,7 +47,7 @@
             "loading": "Loading.."
         },
         "TENANTSETTINGS": {
-            "isIncludeShippingAndHandlingCharges": 1,
+            "isIncludeShippingAndHandlingCharges": 0,
             "returnReason": ""
         }
     },
