@@ -74,7 +74,9 @@
                 "ProcessReturnsFailed": "An error occurred while processing returns",
                 "ExistingPaymentToRefundFailed": "An error occurred while fetching the payment details of return",
                 "PaymentRefundFailed": "An error occurred while processing the refund",
-                "CloseReturnsFailed": "An error occurred while closing/rejecting returns"               
+                "CloseReturnsFailed": "An error occurred while closing/rejecting returns",
+                "CreateReturnInvalidQuanitySelection": "Item 'Quantity to Return' exceeds 'Quantity Shipped'.",
+                "ProcessReturnInvalidQuanitySelection": "The item quantity cannot be greater than the available quantity."
             },
             "Warning": {
                 "DashboardTilesGetFailed": "Error occurred while fetching dasbhoard tiles",
