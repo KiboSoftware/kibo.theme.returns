@@ -197,6 +197,10 @@
                     "processReturn": "Process These Items",
                     "processNewGiftCard": "Process to New Gift Card"
                 }
+            },
+            "Substitution": {
+                "substitutedItem": "Substitute for",
+                "variationProductCode": "Variation Product Code"
             }
         }
     },
