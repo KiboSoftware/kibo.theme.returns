@@ -197,6 +197,10 @@
                     "processReturn": "Traiter ces éléments",
                     "processNewGiftCard": "Processus vers une nouvelle carte-cadeau"
                 }
+            },
+            "Substitution": {
+                "substitutedItem": "remplaçante pour",
+                "variationProductCode": "Code de produit de variation"
             }
         }
     },
