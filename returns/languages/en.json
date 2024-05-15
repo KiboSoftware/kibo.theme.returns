@@ -187,7 +187,8 @@
                     "shippedBy": "Shipped By",
                     "quantity": "Quantity",
                     "reason": "Reason",
-                    "refundShippingAndHandling": "Refund S&H"
+                    "refundShippingAndHandling": "Refund S&H",
+                    "appliedRefundProcessingFee": "Applied refund processing fee"
                 },
                 "GridEmptyMessages": {
                     "noRecordFound": "No return items found",
