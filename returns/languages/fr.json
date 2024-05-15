@@ -187,7 +187,8 @@
                     "shippedBy": "Expédié par",
                     "quantity": "Quantité",
                     "reason": "Raison",
-                    "refundShippingAndHandling": "Remboursement S&H"
+                    "refundShippingAndHandling": "Remboursement S&H",
+                    "appliedRefundProcessingFee": "Frais de traitement de remboursement appliqués"
                 },
                 "GridEmptyMessages": {
                     "noRecordFound": "Aucun élément de retour trouvé",
